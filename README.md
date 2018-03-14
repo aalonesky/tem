@@ -6,7 +6,7 @@
 
 ### 可能使用技術(工具)
 
-1.HTML、CSS、JavaScript(jQuery).
+1.HTML、CSS、JavaScript(jQuery).<br/>
 2.MySQL、PHP
 3.Ajax
 4.PhotoShop
